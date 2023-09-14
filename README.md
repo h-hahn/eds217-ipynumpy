@@ -1,5 +1,4 @@
 # eds217-ipynumpy
-eds 217 group project
-Scrapy is a library that is used to scrape websites and extracts data. 
+EDS 217 group project: Plotly
 
-website: https://scrapy.org/
+Plotly website: https://plotly.com/
