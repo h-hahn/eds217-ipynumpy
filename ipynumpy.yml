@@ -16,4 +16,5 @@ dependencies:
   - bokeh
   - ipykernel
   - scrapy
+  - geopandas
   
