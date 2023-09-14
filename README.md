@@ -2,6 +2,8 @@
 EDS 217 group project: Plotly
 
 Plotly website: https://plotly.com/
+Plotly Github Repo: https://github.com/plotly/plotly.py
+
 
 The plotly Python library is an interactive, open-source plotting library that supports over 40 unique chart types covering a wide range of statistical, financial, geographic, scientific, and 3-dimensional use-cases.
 
